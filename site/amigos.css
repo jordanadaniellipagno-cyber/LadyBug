@@ -146,12 +146,6 @@ p {
     box-sizing: border-box;
 }
 
-.informacao {
-    width: 100vw;
-    /* 100% da largura da viewport */
-    margin: 0;
-    padding: 0;
-}
 footer{
     background-color: #df6758;
     color: white;
