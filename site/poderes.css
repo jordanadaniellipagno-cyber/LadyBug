@@ -131,15 +131,17 @@ p {
 
 
 .informacao {
-    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: 10px;
     width: 100vw;
-    margin: 0;
     padding: 0;
+    text-align: justify
 }
 
 .informacao p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 30px;
+    font-size: 20px;
     width: 100%;
     margin: 0px;
     padding: 0px;

@@ -130,20 +130,22 @@ p {
 }
 
 .informacao {
+    margin-top: 20px;
+    margin-bottom: 20px;
     margin: 20px;
-    width: 100vw;
-    /* 100% da largura da viewport */
-    margin: 0;
+    width: 100vw;/* 100% da largura da viewport */
     padding: 0;
+    text-align: justify
 }
 
 .informacao p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 30px;
+    font-size: 20px;
     width: 100%;
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+
 }
 
 footer{
